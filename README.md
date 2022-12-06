@@ -1,6 +1,6 @@
 # WizardGame
 Game projected developed in university with C
 
-<h3>Authors<\h3>
+Authors
 - Marcus Farias
 - Ingryd Arrieta
