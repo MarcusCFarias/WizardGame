@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1665162365 source:c:\users\marcus\desktop\wizardgame\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"raylib.h"
+	<conio.h>
+	<time.h>
+	<ctype.h>
+
