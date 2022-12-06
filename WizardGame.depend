@@ -8,3 +8,34 @@
 	<time.h>
 	<ctype.h>
 
+1670287960 source:c:\projetos\github\wizardgame\elementos.c
+	"elementos.h"
+
+1670320370 c:\projetos\github\wizardgame\elementos.h
+	<time.h>
+
+1670320417 source:c:\projetos\github\wizardgame\graficos.c
+	"graficos.h"
+	"raylib.h"
+
+1670320449 c:\projetos\github\wizardgame\graficos.h
+	"elementos.h"
+	<stdio.h>
+
+1670320512 source:c:\projetos\github\wizardgame\mecanicas.c
+	"mecanicas.h"
+
+1670320501 c:\projetos\github\wizardgame\mecanicas.h
+	"elementos.h"
+
+1670320420 source:c:\projetos\github\wizardgame\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"raylib.h"
+	<ctype.h>
+	"elementos.h"
+	"graficos.h"
+	"mecanicas.h"
+
